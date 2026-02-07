@@ -1,4 +1,4 @@
-name: 'Sync with OpenClaw Upstream'
+name: 'Sync with Upstream'
 
 on:
   schedule:
